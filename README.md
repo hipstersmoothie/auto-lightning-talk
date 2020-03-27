@@ -1,3 +1,12 @@
+# Auto Lightning Talk
+
+This is a talk that gives a quick intro to what using `auto` is like.
+It should take 5 - 10 minutes.
+
+Feel free to use this presentation at your company!
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
