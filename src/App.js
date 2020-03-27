@@ -246,6 +246,17 @@ function App() {
       </Slide>
 
       <Slide backgroundColor="white">
+        <div className="h-full flex justify-center items-center">
+          <img
+            className="max-h-full w-auto"
+            style={{ height: 600 }}
+            src="logos.png"
+            alt="Supported package platforms"
+          />
+        </div>
+      </Slide>
+
+      <Slide backgroundColor="white">
         <FrequentlyAskedQuestion
           question={
             <>
