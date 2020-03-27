@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/auto-lightning-talk/static/css/main.128e4396.chunk.css",
+    "main.js": "/auto-lightning-talk/static/js/main.8dedb650.chunk.js",
+    "main.js.map": "/auto-lightning-talk/static/js/main.8dedb650.chunk.js.map",
+    "runtime-main.js": "/auto-lightning-talk/static/js/runtime-main.a37a8d92.js",
+    "runtime-main.js.map": "/auto-lightning-talk/static/js/runtime-main.a37a8d92.js.map",
+    "static/js/2.c1a615af.chunk.js": "/auto-lightning-talk/static/js/2.c1a615af.chunk.js",
+    "static/js/2.c1a615af.chunk.js.map": "/auto-lightning-talk/static/js/2.c1a615af.chunk.js.map",
+    "index.html": "/auto-lightning-talk/index.html",
+    "precache-manifest.12ed4c3be565cb66eaee12e0b478a20a.js": "/auto-lightning-talk/precache-manifest.12ed4c3be565cb66eaee12e0b478a20a.js",
+    "service-worker.js": "/auto-lightning-talk/service-worker.js",
+    "static/css/main.128e4396.chunk.css.map": "/auto-lightning-talk/static/css/main.128e4396.chunk.css.map",
+    "static/js/2.c1a615af.chunk.js.LICENSE.txt": "/auto-lightning-talk/static/js/2.c1a615af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a37a8d92.js",
+    "static/js/2.c1a615af.chunk.js",
+    "static/css/main.128e4396.chunk.css",
+    "static/js/main.8dedb650.chunk.js"
+  ]
+}
