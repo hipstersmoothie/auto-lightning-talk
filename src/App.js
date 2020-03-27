@@ -318,6 +318,27 @@ function App() {
           </div>
         </div>
       </Slide>
+
+      <Slide backgroundColor="white">
+        <div className="h-full flex flex-col justify-center">
+          <Emphasize className="text-center text-6xl text-gray-900 mx-20">
+            One more thing...
+          </Emphasize>
+        </div>
+      </Slide>
+
+      <Slide backgroundColor="white">
+        <div className="h-full flex justify-center items-center flex-col">
+          <Emphasize className="text-center text-6xl text-gray-900 mx-20 mb-8">
+            Hand-craft release notes for any PR
+          </Emphasize>
+          <img
+            className="max-h-full w-auto"
+            src="release-notes.png"
+            alt="Supported package platforms"
+          />
+        </div>
+      </Slide>
     </Deck>
   );
 }
