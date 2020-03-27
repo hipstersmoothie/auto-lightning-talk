@@ -1,5 +1,7 @@
 # Auto Lightning Talk
 
+[View Presentation](https://hipstersmoothie.github.io/auto-lightning-talk/)
+
 This is a talk that gives a quick intro to what using `auto` is like.
 It should take 5 - 10 minutes.
 
